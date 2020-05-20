@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: ccp3bn_bua1_previsao_tempo
+Implementation-Version: 0.0.1-SNAPSHOT
+Build-Jdk-Spec: 1.8
+Created-By: Maven Integration for Eclipse
+
